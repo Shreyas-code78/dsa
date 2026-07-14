@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/Shreyas-code78/dsa/tree/master/0027-remove-element) |
 | [0347-top-k-frequent-elements](https://github.com/Shreyas-code78/dsa/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/Shreyas-code78/dsa/tree/master/0496-next-greater-element-i) |
 | [0692-top-k-frequent-words](https://github.com/Shreyas-code78/dsa/tree/master/0692-top-k-frequent-words) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/Shreyas-code78/dsa/tree/master/0027-remove-element) |
 | [0125-valid-palindrome](https://github.com/Shreyas-code78/dsa/tree/master/0125-valid-palindrome) |
 ## String
 |  |
