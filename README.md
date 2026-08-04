@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Shreyas-code78/dsa/tree/master/0027-remove-element) |
 | [0347-top-k-frequent-elements](https://github.com/Shreyas-code78/dsa/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/Shreyas-code78/dsa/tree/master/0496-next-greater-element-i) |
+| [0502-ipo](https://github.com/Shreyas-code78/dsa/tree/master/0502-ipo) |
 | [0692-top-k-frequent-words](https://github.com/Shreyas-code78/dsa/tree/master/0692-top-k-frequent-words) |
 ## Hash Table
 |  |
@@ -54,11 +55,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Shreyas-code78/dsa/tree/master/0347-top-k-frequent-elements) |
+| [0502-ipo](https://github.com/Shreyas-code78/dsa/tree/master/0502-ipo) |
 | [0692-top-k-frequent-words](https://github.com/Shreyas-code78/dsa/tree/master/0692-top-k-frequent-words) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Shreyas-code78/dsa/tree/master/0347-top-k-frequent-elements) |
+| [0502-ipo](https://github.com/Shreyas-code78/dsa/tree/master/0502-ipo) |
 | [0692-top-k-frequent-words](https://github.com/Shreyas-code78/dsa/tree/master/0692-top-k-frequent-words) |
 ## Bucket Sort
 |  |
@@ -78,4 +81,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0692-top-k-frequent-words](https://github.com/Shreyas-code78/dsa/tree/master/0692-top-k-frequent-words) |
+## Greedy
+|  |
+| ------- |
+| [0502-ipo](https://github.com/Shreyas-code78/dsa/tree/master/0502-ipo) |
 <!---LeetCode Topics End-->
