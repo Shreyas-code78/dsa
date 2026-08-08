@@ -11,10 +11,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Shreyas-code78/dsa/tree/master/0002-add-two-numbers) |
+| [0509-fibonacci-number](https://github.com/Shreyas-code78/dsa/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Shreyas-code78/dsa/tree/master/0002-add-two-numbers) |
+| [0509-fibonacci-number](https://github.com/Shreyas-code78/dsa/tree/master/0509-fibonacci-number) |
 ## Array
 |  |
 | ------- |
@@ -85,4 +87,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0502-ipo](https://github.com/Shreyas-code78/dsa/tree/master/0502-ipo) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Shreyas-code78/dsa/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Shreyas-code78/dsa/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
