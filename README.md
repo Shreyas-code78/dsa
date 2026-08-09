@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0027-remove-element](https://github.com/Shreyas-code78/dsa/tree/master/0027-remove-element) |
 | [0198-house-robber](https://github.com/Shreyas-code78/dsa/tree/master/0198-house-robber) |
+| [0213-house-robber-ii](https://github.com/Shreyas-code78/dsa/tree/master/0213-house-robber-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Shreyas-code78/dsa/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/Shreyas-code78/dsa/tree/master/0496-next-greater-element-i) |
 | [0502-ipo](https://github.com/Shreyas-code78/dsa/tree/master/0502-ipo) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/Shreyas-code78/dsa/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/Shreyas-code78/dsa/tree/master/0198-house-robber) |
+| [0213-house-robber-ii](https://github.com/Shreyas-code78/dsa/tree/master/0213-house-robber-ii) |
 | [0509-fibonacci-number](https://github.com/Shreyas-code78/dsa/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
