@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Shreyas-code78/dsa/tree/master/0001-two-sum) |
 | [0027-remove-element](https://github.com/Shreyas-code78/dsa/tree/master/0027-remove-element) |
+| [0051-n-queens](https://github.com/Shreyas-code78/dsa/tree/master/0051-n-queens) |
 | [0198-house-robber](https://github.com/Shreyas-code78/dsa/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Shreyas-code78/dsa/tree/master/0213-house-robber-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Shreyas-code78/dsa/tree/master/0347-top-k-frequent-elements) |
@@ -110,4 +111,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Shreyas-code78/dsa/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0051-n-queens](https://github.com/Shreyas-code78/dsa/tree/master/0051-n-queens) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/Shreyas-code78/dsa/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
