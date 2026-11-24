@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/Shreyas-code78/dsa/tree/master/0051-n-queens) |
 | [0198-house-robber](https://github.com/Shreyas-code78/dsa/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Shreyas-code78/dsa/tree/master/0213-house-robber-ii) |
+| [0287-find-the-duplicate-number](https://github.com/Shreyas-code78/dsa/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/Shreyas-code78/dsa/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/Shreyas-code78/dsa/tree/master/0496-next-greater-element-i) |
 | [0502-ipo](https://github.com/Shreyas-code78/dsa/tree/master/0502-ipo) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0027-remove-element](https://github.com/Shreyas-code78/dsa/tree/master/0027-remove-element) |
 | [0125-valid-palindrome](https://github.com/Shreyas-code78/dsa/tree/master/0125-valid-palindrome) |
+| [0287-find-the-duplicate-number](https://github.com/Shreyas-code78/dsa/tree/master/0287-find-the-duplicate-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/Shreyas-code78/dsa/tree/master/0977-squares-of-a-sorted-array) |
 ## String
 |  |
@@ -131,4 +133,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/Shreyas-code78/dsa/tree/master/0037-sudoku-solver) |
+## Binary Search
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Shreyas-code78/dsa/tree/master/0287-find-the-duplicate-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Shreyas-code78/dsa/tree/master/0287-find-the-duplicate-number) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Shreyas-code78/dsa/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Shreyas-code78/dsa/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
