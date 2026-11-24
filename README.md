@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Shreyas-code78/dsa/tree/master/0027-remove-element) |
 | [0037-sudoku-solver](https://github.com/Shreyas-code78/dsa/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/Shreyas-code78/dsa/tree/master/0051-n-queens) |
+| [0075-sort-colors](https://github.com/Shreyas-code78/dsa/tree/master/0075-sort-colors) |
 | [0198-house-robber](https://github.com/Shreyas-code78/dsa/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Shreyas-code78/dsa/tree/master/0213-house-robber-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Shreyas-code78/dsa/tree/master/0287-find-the-duplicate-number) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/Shreyas-code78/dsa/tree/master/0027-remove-element) |
+| [0075-sort-colors](https://github.com/Shreyas-code78/dsa/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/Shreyas-code78/dsa/tree/master/0125-valid-palindrome) |
 | [0287-find-the-duplicate-number](https://github.com/Shreyas-code78/dsa/tree/master/0287-find-the-duplicate-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/Shreyas-code78/dsa/tree/master/0977-squares-of-a-sorted-array) |
@@ -70,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Shreyas-code78/dsa/tree/master/0075-sort-colors) |
 | [0347-top-k-frequent-elements](https://github.com/Shreyas-code78/dsa/tree/master/0347-top-k-frequent-elements) |
 | [0502-ipo](https://github.com/Shreyas-code78/dsa/tree/master/0502-ipo) |
 | [0692-top-k-frequent-words](https://github.com/Shreyas-code78/dsa/tree/master/0692-top-k-frequent-words) |
@@ -149,4 +152,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Shreyas-code78/dsa/tree/master/0287-find-the-duplicate-number) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Shreyas-code78/dsa/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Shreyas-code78/dsa/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
